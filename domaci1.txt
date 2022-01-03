@@ -1,0 +1,7 @@
+﻿10558353555: broj iteracija prvog optimizacionog algoritma.
+59651715: broj iteracija drugog optimizacionog algoritma.
+
+Optimizacioni algoritam pod pod b je brzi,ali ukoliko bi se zbir povecao efekat optimizacije bi se smanjio.
+
+
+nisam siguran da li treba da se uradi sa izlaskom iz petlje, ali ako treba sa izlaskom treba samo da se odkomentarise sve u prvom i drugom zadatku.
